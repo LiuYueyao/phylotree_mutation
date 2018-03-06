@@ -1,0 +1,5 @@
+position  path  depth parent  child
+584	996	31	a	t
+584	996	34	t	a
+1091	822	26	a	c
+1091	822	28	c	a
